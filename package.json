@@ -9,7 +9,7 @@
     "lint": "eslint ./src",
     "lint fix": "eslint ./src --fix"
   },
-  "author": "Accelerator",
+  "author": "Tempesto20",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.14",
